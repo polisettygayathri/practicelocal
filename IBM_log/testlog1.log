@@ -1,0 +1,4 @@
+2022-12-05 11:59:53,005 [main] INFO NOP Comm Application Module - launching applicaiton on browser : chrome
+2022-12-05 11:59:53,012 [main] INFO NOP Comm Application Module - browser launched
+2022-12-05 11:59:58,013 [main] INFO NOP Comm Application Module - Application URL https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-12-05 12:00:28,599 [main] INFO NOP Comm Application Module - closing app
